@@ -1,0 +1,90 @@
+
+*{
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+
+.btn{
+    border-radius: 10px;
+    color: white;
+    background-color: green;
+}
+.navbar-brand img{
+    width: 100px;
+}
+.container{
+    margin-bottom: 50px;
+    padding: 50px;
+ 
+}
+.row1 img{
+    height: 100px;
+    margin-left: 50px;
+}
+.cat1 {
+    align-items: center;
+    justify-content: center;
+
+}
+h2{
+    color: indigo;
+    align-items: center;
+}
+.heading{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.card-group{
+    margin:20px;
+
+}
+.courses-card{
+    border-radius: 5px;
+}
+
+.courses-card img{
+    width: 400px;
+   padding: 10px 40px;
+}
+}
+.footer{
+    height: 300px;
+    position: relative;
+    background-color: black;
+    color: white;
+   
+
+}
+.footer-content{
+    margin: 0px;
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+.footer .footer-content .footer-section{
+    flex: 1;
+    padding: 25px;
+    border: 1px solid white;
+    width: 200px;
+    margin-bottom: 50px;
+}
+.footer .footer-bottom{
+    padding-top: 50px;
+    text-align: center;
+    width: 100%;
+    right: 0px;
+    background-color: black;
+    color: white;
+}
+.card-footer .row{
+    text-align: center;
+    
+    
+}
+.card-footer .row img{
+    width: 30px;
+
+}
+}
